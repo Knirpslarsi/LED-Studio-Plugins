@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "repo": "Knirpslarsi/LED-Studio-WLED",
+    "name": "WLED",
+    "author": "Knirpslarsi",
+    "description": "WLED-Geräte im Netzwerk wie jedes andere Gerät steuern: im Layout platzieren, Effekte, Musik und Shows darauf. Ab LED Studio 1.7.0."
+  }
+]
